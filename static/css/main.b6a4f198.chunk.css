@@ -1,0 +1,2 @@
+*{margin:0;padding:0;font-family:Arial,Helvetica,sans-serif}body,html{height:100%;justify-content:center;align-items:center;background-color:#eee}.container,body,html{display:flex;flex-flow:column}.row{display:flex}button,input{flex:1 1;padding:2em;background-color:#000;color:red;border:1px solid #181717;outline:none;-webkit-transition:all .5s;transition:all .5s;font-size:1rem}input{background-color:#2b1313}.calculate{flex:1 1;justify-content:center}
+/*# sourceMappingURL=main.b6a4f198.chunk.css.map */
