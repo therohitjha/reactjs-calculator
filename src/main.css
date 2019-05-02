@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html,body{
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+}
+
+.container{
+    display: flex;
+    flex-flow: column;
+}
+
+.row{
+     display: flex;
+}
+
+button,input{
+   flex: 1;
+   padding: 2em;
+   background-color: black;
+   color: red;
+   border: 1px solid rgb(24, 23, 23);
+   outline: none;
+   transition: all .5s;
+   font-size: 1rem;
+}
+
+input{
+    background-color: rgb(43, 19, 19);
+}
+
+.calculate{
+    flex: 1;
+    justify-content: center;
+}
